@@ -7,4 +7,4 @@ SUM=$(($NUM1 + $NUM2))
 echo "the sum of the numbers NUM1 and NUM2 is: "
 echo $SUM
 
-echo "the script has done its job. BYE!"
+#echo "the script has done its job. BYE!"
